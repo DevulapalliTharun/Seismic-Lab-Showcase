@@ -5,7 +5,7 @@ import plotly.express as px
 import numpy as np
 
 # Page Config
-st.set_page_config(page_title="SeismicOS | Module 01", layout="wide")
+st.set_page_config(page_title="Seismic-Lab-Showcase | Module 01", layout="wide")
 
 # Styling
 st.markdown("""

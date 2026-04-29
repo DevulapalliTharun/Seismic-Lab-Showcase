@@ -4,7 +4,7 @@ import os
 import pydeck as pdk
 
 # Page Config
-st.set_page_config(page_title="SeismicOS | Module MR", layout="wide")
+st.set_page_config(page_title="Seismic-Lab-Showcase | Module MR", layout="wide")
 
 st.markdown("""
     <style>

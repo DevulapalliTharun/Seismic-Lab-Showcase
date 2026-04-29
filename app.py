@@ -3,7 +3,7 @@ import os
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="SeismicOS | Intelligence Portal",
+    page_title="Seismic-Lab-Showcase | Intelligence Portal",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -108,7 +108,7 @@ apply_style()
 st.markdown("""
     <div class="hero-container">
         <div class="telemetry">● System Telemetry: 17,959 Live Nodes</div>
-        <h1 class="hero-title">SeismicOS</h1>
+        <h1 class="hero-title">Seismic Lab Showcase</h1>
         <p class="muted">Next-Gen Earthquake Intelligence & Risk Modeling Portal</p>
         <div style="margin-top: 30px;">
             <span style="color: #888;">Built by</span> <b>Devulapalli Tharun</b> 
@@ -146,6 +146,6 @@ with col3:
 
 st.markdown("""
     <div style="margin-top: 50px; padding: 40px; text-align: center;">
-        <p style="color: #666 !important;">© 2026 SeismicOS Engineering | NITK Surathkal</p>
+        <p style="color: #666 !important;">© 2026 Seismic Lab Showcase Engineering | NITK Surathkal</p>
     </div>
     """, unsafe_allow_html=True)

@@ -1,8 +1,8 @@
-# 🌍 SeismicOS | Intelligence & Risk Modeling Portal
+# 🌍 Seismic-Lab-Showcase | Intelligence & Risk Modeling Portal
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://seismic-os-djnkn4ggm9h6qcdga8qsfk.streamlit.app/)
 
-**SeismicOS** is a high-fidelity web-native platform developed for **NITK Surathkal** as part of the Data Driven Modeling (DDM) course. It showcases an end-to-end data science lifecycle—from raw seismic ingestion to distributed big data hazard assessment.
+**Seismic-Lab-Showcase** is a high-fidelity web-native platform developed for **NITK Surathkal** as part of the Data Driven Modeling (DDM) course. It showcases an end-to-end data science lifecycle—from raw seismic ingestion to distributed big data hazard assessment.
 
 ---
 
@@ -50,7 +50,7 @@ This entire platform, including the 3D visualizations, ML pipelines, and profess
 ## 👨‍🔬 Researcher
 **Devulapalli Tharun**  
 *Roll No: 252CS009*  
-*MTech CSE (Information Security)*  
+*MTech CSE*  
 *National Institute of Technology Karnataka (NITK)*
 
 ---
